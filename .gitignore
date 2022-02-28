@@ -26,3 +26,4 @@ Manifest.toml
 .idea/
 .ipynb_checkpoints/
 .local/
+.jupyter/
