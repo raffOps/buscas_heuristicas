@@ -27,3 +27,4 @@ Manifest.toml
 .ipynb_checkpoints/
 .local/
 .jupyter/
+.DS_Store
